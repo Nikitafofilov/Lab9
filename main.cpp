@@ -9,16 +9,16 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "rus");
-    int i1, i2;
+    int i1, i2,i3,i4;
     std::cout << "Введите одно число\n";
     std::cin >> i1;
     std::cout << "Введите второе число\n";
     std::cin >> i2;
     std::cout << "Первое число - " << i1 << " Второе число - " << i2;
 	
-	std:i1=i1+i2;
-	std::cout << сумма чисел =<< i1;
-	std:i1=i1-i2;
-	std::cout << Разность чисел =<< i1;
+	i3=i1+i2;
+	std::cout <<" сумма чисел ="<< i3;
+	i4=i1-i2;
+	std::cout <<" Разность чисел ="<< i4;
 }
 
