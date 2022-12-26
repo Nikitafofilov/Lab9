@@ -16,5 +16,7 @@ int main()
 	
 	std:i1=i1+i2;
 	std::cout << сумма чисел =<< i1;
+	std:i1=i1-i2;
+	std::cout << Разность чисел =<< i1;
 }
 
