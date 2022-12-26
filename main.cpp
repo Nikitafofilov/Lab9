@@ -4,6 +4,8 @@
 #include <stdlib.h>
 
 using namespace std;
+//Данная программа используется для обучения
+
 int main()
 {
     setlocale(LC_ALL, "rus");
